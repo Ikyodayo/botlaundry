@@ -1,0 +1,23 @@
+{
+  "name": "rpl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "kelompok 3",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "github:nstar-y/bail",
+    "awesome-phonenumber": "^7.4.0",
+    "axios": "^1.8.4",
+    "crypto": "^1.0.1",
+    "jimp": "^0.16.13",
+    "nodemon": "^3.1.9",
+    "pino": "^9.6.0",
+    "util": "^0.12.5"
+  }
+}
